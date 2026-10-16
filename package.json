@@ -1,0 +1,12 @@
+{
+  "name": "google-wrapper",
+  "version": "1.0.0",
+  "description": "Electron app that opens google.com in the same app window",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
